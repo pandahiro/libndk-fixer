@@ -21,4 +21,4 @@ This fixes the roblox app crashing inside Waydroid when using libndk_translation
 - Ensure you have cmake and the [android ndk](https://developer.android.com/ndk/downloads) on your system and the path is stored in the `ANDROID_NDK_HOME` environment variable.
 - Clone the repository with `--recursive` to pull the dobby submodule.
 - Run build.sh
-- The resulting built file `libndk_fixer.so` will be in the build directory.
+- The resulting built file `libndk_fixer.so` will be in the build directory. 
